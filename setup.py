@@ -1,3 +1,3 @@
 from distutils.core import setup
 import py2exe
-setup(console=['Webpage Spammer.py'])
+setup(console=['Keyboard Control.py'])
